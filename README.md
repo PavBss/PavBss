@@ -1,29 +1,40 @@
 # pavbss
 
-`c++` • `python` • `pytorch` • `git` • `linux`
+```cpp
+#include <systems>
+#include <ml>
+
+struct Profile {
+    std::string status = "systems programming & deep learning";
+    std::vector<std::string> tech = {"c++", "python", "pytorch", "git", "linux"};
+};
+```
+
+| Parameter | Value |
+| :--- | :--- |
+| **Domain** | Systems & ML |
+| **Core Stack** | `c++` • `python` • `pytorch` • `git` • `linux` |
+| **Environment** | `Linux` / `CLI` |
+| **Discord** | `pavykwwb` |
 
 ---
 
-### projects
+### ⚙️ Stack
 
-* **[LM](https://github.com/PavBss/LM)** — репозиторий с наработками и экспериментами.
-
----
-
-### activity
-
-![snake animation](https://raw.githubusercontent.com/PavBss/PavBss/output/github-contribution-grid-snake-dark.svg)
+![Skill Icons](https://skillicons.dev/icons?i=cpp,py,pytorch,linux,git,bash&theme=dark)
 
 ---
 
-### stats
+### 🐍 Activity
 
-![github stats](https://github-readme-stats.vercel.app/api?username=PavBss&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&show_icons=true)
-
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavBss&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e)
+![Snake Animation](https://raw.githubusercontent.com/PavBss/PavBss/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-### contact
+### 📊 Most Used Languages
 
-* **Discord:** `pavykwwb`
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PavBss&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e)
+
+---
+
+![Discord](https://img.shields.io/badge/Discord-pavykwwb-18181b?style=for-the-badge&logo=discord&logoColor=white)
