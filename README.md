@@ -20,12 +20,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PavBss/PavBss/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
 ### contact
 
 <p align="center">
