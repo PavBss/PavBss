@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=pavbss;C%2B%2B+%2F+Python+%2F+Deep+Learning;Systems+%26+AI+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2600&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=pavbss;c%2B%2B+%2F+systems+programming;deep+learning+%26+architecture" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -12,7 +12,17 @@
 
 ---
 
-### 🛠 Tech & Environment
+### 🚀 Overview
+
+> **Разработка системного ПО и работа с нейросетевыми архитектурами.**
+> Фокус на производительности C++, оптимизации кода и экспериментах с искусственным интеллектом.
+
+* **Main Focus:** Low-level C++ & Deep Learning
+* **Environment:** Linux / CLI-first workflow
+
+---
+
+### 🛠 Tech & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -22,20 +32,13 @@
 
 ---
 
-### 📊 Activity & Analytics
+### 📂 Featured Repositories
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PavBss&show_icons=true&theme=dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavBss&layout=compact&theme=dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=ffffff&text_color=8b949e" />
-</p>
-
-<p align="center">
-  <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=PavBss&theme=dark&hide_border=false&border_color=30363d&background=0d1117&ring=ffffff&fire=ffffff&currStreakNum=ffffff" />
-</p>
+* **[LM](https://github.com/PavBss/LM)** — локальные наработки, исследования и эксперименты с языковыми моделями.
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/PavBss/PavBss/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
