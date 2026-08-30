@@ -12,7 +12,7 @@
 
 ---
 
-### stack
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,py,git,windows,linux,vscode,github&theme=dark&perline=7" />
@@ -20,7 +20,7 @@
 
 ---
 
-### contact
+
 
 <p align="center">
   <a href="https://discord.com">
